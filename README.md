@@ -13,4 +13,4 @@ In order to optimize our inventory, we would like to know which films will be re
 3. Analyze extracted features and transform them. You may need to encode some categorical variables, or scale numerical variables.
 4. Create a query to get the list of films and a boolean indicating if it was rented last month. This would be our target variable.
 5. Create a logistic regression model to predict this variable from the cleaned data.
-6. Evaluate the results.
+6. Evaluate the results (calculate the score of the model).
